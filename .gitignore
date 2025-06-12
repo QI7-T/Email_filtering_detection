@@ -9,13 +9,13 @@ env/
 ENV/
 
 # 数据集和模型文件（太大）
-trec06c/
-bert-base-chinese/
+# trec06c/
+# bert-base-chinese/
 outputs/
-*.pth
-*.pt
-*.bin
-*.pkl
+# *.pth
+# *.pt
+# *.bin
+# *.pkl
 
 # 系统文件
 .DS_Store
