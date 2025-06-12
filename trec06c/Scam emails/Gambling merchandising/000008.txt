@@ -1,0 +1,23 @@
+From: "VIP客服" vip@king-casino.com
+Subject: 尊敬的玩家，恭喜您晋升VIP3！888元升级礼金待领取！
+To: loyal_player@example.com
+Content-Type: text/plain;charset="GB2312"
+Date: Sun, 08 Jun 2025 20:05:15 +0800
+
+【VIP等级提升通知】
+
+尊敬的贵宾：
+
+恭喜您！您的账户已成功晋升为【VIP等级3】！
+为表彰您的忠诚，我们已为您准备了一份888元的专属升级礼金。
+
+如何领取：
+
+1. 登录您的游戏账户。
+2. 点击“我的优惠”即可看到888元礼金券。
+3. 点击“立即使用”即可激活，无任何门槛！
+
+成为VIP3后，您还将享受更高的返水比例和更快的提款通道。感谢您的支持，祝您游戏愉快，盈利多多！
+
+登录您的账户查收礼金：
+http://www.king-casino-vip.com/login

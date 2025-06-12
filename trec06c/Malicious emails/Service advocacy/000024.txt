@@ -1,0 +1,27 @@
+Return-Path: <trade@game-market.xyz>
+Received: from game-market.xyz (unknown [194.31.54.102])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id l1H4wS7v044391
+	for <user@example.com>; Sun, 08 Jun 2025 21:28:33 +0800 (CST)
+Message-ID: <202506082128.l1H4wS7v044391@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <trade@game-market.xyz>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: trade@game-market.xyz
+Date: Sun, 08 Jun 2025 21:28:32 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：发烧友游戏交易网
+网站类型：游戏/交易
+联系QQ：888999000
+网站地址：www.gamer-trade-center.xyz
+主要内容：
+还在为打不出极品装备而发愁？想退坑又担心账号卖不出好价钱？来发烧友游戏交易网，解决您的一切烦恼！
+- 海量账号：DNF、英雄联盟、原神等热门游戏成品号、初始号应有尽有。
+- 装备金币：最低价的游戏金币、最稀有的道具装备，24小时自动发货。
+- 安全担保：平台提供中介担保交易，确认无误再放款，杜绝找回狗。
+- 账号回收：高价回收您的闲置账号，快速变现。
+我们是玩家自己的交易平台，手续费全网最低。现在发布商品，免收一切费用！

@@ -1,0 +1,28 @@
+Return-Path: <policy@zhengfu-info.com.cn>
+Received: from zhengfu-info.com.cn (unknown [218.108.232.41])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j9F2uP5t022198
+	for <user@example.com>; Sun, 08 Jun 2025 21:15:18 +0800 (CST)
+Message-ID: <202506082115.j9F2uP5t022198@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <policy@zhengfu-info.com.cn>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: policy@zhengfu-info.com.cn
+Date: Sun, 08 Jun 2025 21:15:17 +0800
+X-Priority: 4
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：惠企政策信息港
+网站类型：政策/资讯
+联系EMAIL：huiqi_zhengce@126.com
+网站地址：www.huiqi-zhengce.com.cn
+主要内容：
+您是否因为信息不对称，错过了本该属于您的政府补贴？“惠企政策信息港”由多位退休干部联合创办，拥有独家内部渠道，为您精准推送、解读、并辅导申报各类国家及地方扶持资金。
+- 独家信息：提前获知未公开发布的补贴项目信息。
+- 智能匹配：根据您的企业情况，自动匹配可申报的项目。
+- 专家辅导：我们提供一对一的申报材料撰写与流程辅导。
+- 成功案例：已成功帮助上千家中小企业获得总额过亿的扶持资金。
+不要让您辛苦经营的企业，因为错过政策而落后于人。立即访问我们，查询您的企业可以申领多少补贴！
+咨询QQ：345678901。

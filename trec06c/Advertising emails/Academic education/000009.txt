@@ -1,0 +1,31 @@
+Received: from mail.sundaclinical.com ([180.169.10.90])
+	by mail.hengrui.com (Hengrui Medicine) with ESMTP id v4I6nM7w033456
+	for <clinical.trials@hengrui.com>; Sun, 08 Jun 2025 20:00:15 +0800 (CST)
+Message-ID: <202506082000.v4I6nM7w033456@mail.hengrui.com>
+From: =?GB2312?B?R0NQIOWPtw==?= <gcp.training@sundaclinical.com>
+Subject: =?gb2312?B?ob+z9tfr0rvOqsTPsOYwODK1yfrP4Lao0Ke8/g==?=
+To: clinical.trials@hengrui.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: training@sundaclinical.com
+Date: Sun, 08 Jun 2025 20:00:14 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+
+   “新药研发与临床试验管理规范(GCP)实战培训班”
+
+各新药研发机构及制药企业：
+
+为帮助从业人员准确理解并执行国家药品监督管理局（NMPA）关于药物临床试验的最新法规要求，我司将于苏州生物医药产业园（BioBay）举办本次GCP实战培训。
+
+培训要点：
+- GCP核心原则与最新法规变化解读
+- 临床试验方案设计与伦理审查要点
+- 试验过程中的质量控制与稽查
+- 临床试验数据管理与统计分析
+- eCTD（电子通用技术文档）申报实务
+
+授课讲师：前CDE审评专家、资深CRO项目负责人
+培训时间：2025年9月25-26日
+培训地点：苏州工业园区金鸡湖国际会议中心
+培训费用：4500元/人。
+联系人：李经理 13912345678

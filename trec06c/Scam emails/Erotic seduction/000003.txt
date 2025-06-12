@@ -1,0 +1,41 @@
+Return-Path: <model@elite-companion.cn>
+Received: from elite-companion.cn ([121.5.158.33])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id l1H4wS7v044391
+	for <user@example.com>; Sun, 08 Jun 2025 21:35:30 +0800 (CST)
+Message-ID: <202506082135.l1H4wS7v044391@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?ztLDxQ==?= <model@elite-companion.cn>
+Subject: =?gb2312?B?sNKxy87EvP6jrNDQzsS1xLrq1tA=?=
+To: user@example.com
+Content-Type: text/html;charset="GB2312"
+Reply-To: model@elite-companion.cn
+Date: Sun, 08 Jun 2025 21:35:29 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+<html>
+<head>
+<style>
+A:hover { COLOR: #800080; TEXT-DECORATION:underline}
+A:link { COLOR: #000000; TEXT-DECORATION: none}
+A:visited { COLOR: #800080; TEXT-DECORATION:none }
+</style>
+</head>
+<body>
+<center>
+<p><b>“精英伴旅”——为您提供最高端的商务社交解决方案</b></p>
+<p>尊敬的成功人士：</p>
+<p>您是否在商务应酬、高端晚宴、私人旅行中，需要一位秀外慧中、善解人意的伴侣？“精英伴旅”为您而来。</p>
+<p>我们平台汇集了全国各地的优质模特、在校学生、白领丽人，全部经过真人视频认证，资料真实可靠。她们不仅外形出众，更兼具才华与内涵，是您商务与社交场合的最佳陪同。</p>
+<p><b>服务范围：</b></p>
+<p>- 商务晚宴陪同</p>
+<p>- 私人旅行伴游</p>
+<p>- 高端会议助理</p>
+<p>- 同城私人向导</p>
+<p>我们承诺对您的所有信息进行严格保密。选择您心仪的她，让您的旅途和社交不再孤单。</p>
+<br>
+<p><b><a href="http://www.elite-companion-dating.cn/gallery">点击此处，浏览我们的精英模特库</a></b></p>
+<br>
+<p>我们致力于为您提供最尊贵、最私密的服务。</p>
+</center>
+</body>
+</html>

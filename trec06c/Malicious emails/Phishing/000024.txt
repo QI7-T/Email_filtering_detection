@@ -1,0 +1,33 @@
+Return-Path: <no-reply@corp-drive-pro.com>
+Received: from corp-drive-pro.com (unknown [119.91.135.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id k0G3vR6u033287
+	for <hr@example.com>; Sun, 08 Jun 2025 22:40:22 +0800 (CST)
+Message-ID: <202506082240.k0G3vR6u033287@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <no-reply@corp-drive-pro.com>
+Subject: =?gb2312?B?ytTX9NDD19y8/rT6o6E=?=
+To: hr@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: no-reply@corp-drive-pro.com
+Date: Sun, 08 Jun 2025 22:40:21 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+主题：您的同事“李明”与您分享了文件
+
+您好！
+
+您的同事“李明”(liming@example.com) 通过企业云盘向您分享了一个文件：
+
+文件名：2025年Q3绩效考核及薪酬调整方案（最终版）.zip
+文件大小：12.8 MB
+分享者留言：王总，这是最终确认的版本，请您审阅。
+
+请通过以下安全链接下载文件。为保护公司信息安全，链接将在24小时后失效。
+
+点击下载文件：
+http://share.corp-drive-pro.com/download/get.php?shareid=8f9a0c7b
+
+此邮件由企业云盘系统自动发出，请勿直接回复。
+
+谢谢！
+企业云盘管理团队

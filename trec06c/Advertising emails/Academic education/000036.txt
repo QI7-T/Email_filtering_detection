@@ -1,0 +1,29 @@
+Return-Path: <neuro_lab@fudan.edu.cn>
+Received: from mbox.fudan.edu.cn ([202.120.224.100])
+by mail.sjtu.edu.cn (Coremail) with ESMTP id CM202506091022fGk
+for <zhao_chen@sjtu.edu.cn>; Mon, 09 Jun 2025 10:22:05 +0800 (CST)
+Message-ID: <f3a8b2c1.4a58.19fae3d4@fudan.edu.cn>
+From: "复旦大学神经科学实验室" <neuro_lab@fudan.edu.cn>
+Subject: =?gb2312?B?v8nS1LzSts+2zLzGyMfrxNzL+dLiytogLSankyBTaW1vbg==?=
+To: zhao_chen@sjtu.edu.cn
+Content-Type: text/html;charset="GB2312"
+Date: Mon, 9 Jun 2025 10:21:59 +0800
+X-Priority: 3
+X-Mailer: FoxMail 7.2
+
+尊敬的赵研究员：
+
+诚邀您参加本周五（6月13日）下午2:30在复旦大学生命科学学院报告厅举办的学术讲座。
+
+主讲人: Dr. Timothy Simon (剑桥大学)
+
+讲座主题: 学习与记忆的神经环路机制 (Neural Circuit Mechanisms of Learning and Memory)
+
+Dr. Simon 将分享其团队在利用光遗传学和在体双光子成像技术解析海马体在记忆形成和提取过程中神经元集群活动编码的最新研究成果。讲座后将设有问答环节。
+
+无需注册，欢迎所有感兴趣的师生前来交流。
+
+期待您的光临！
+
+复旦大学神经科学实验室
+2025年6月9日

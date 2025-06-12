@@ -1,0 +1,29 @@
+Received: from mail.feishu-updates.net ([123.125.71.29])
+	by mail.example-corp.com.cn (Coremail) with ESMTP id A8D4F1B9C3
+	for <li.na@example-corp.com.cn>; Sun, 08 Jun 2025 19:38:20 +0800 (CST)
+Message-ID: <s3453l12k-1234-abcd-5678-f2g23h5j6k1l@feishu-updates.net>
+Received: from ws-beijing-it-01.local (HELO ws-beijing-it-01) (10.0.1.15)
+	by 123.125.71.29 with SMTP; Sun, 08 Jun 2025 19:38:19 +0800
+X-Originating-IP: [10.0.1.15]
+Date: Sun, 08 Jun 2025 19:38:18 +0800
+From: "IT支持部门" <it-support@feishu-updates.net>
+To: "公司员工" <li.na@example-corp.com.cn>
+Subject: =?gb2312?B?ob+1y7XEseGj+S+9z9i6zsrM1rzA4A==?=
+X-Mailer: Microsoft Outlook 16.0
+Mime-Version: 1.0
+X-Priority: 3
+Content-Type: text/html; charset="gb2312"
+
+各位同事：
+
+为提升系统安全性及稳定性，IT部计划于近期对企业邮箱系统进行安全升级。
+
+为确保您的邮箱在升级后能够正常使用，请您在收到此邮件的12小时内，点击下方链接，确认并同步您的账户配置。
+
+确认升级：https://sso.feishu-updates.net/corp/mail/confirm_upgrade.jsp?user=li.na
+
+未在规定时间内确认的账户，可能会在升级后出现邮件丢失或无法登录的问题。
+
+感谢您的理解与配合。
+
+IT支持部门

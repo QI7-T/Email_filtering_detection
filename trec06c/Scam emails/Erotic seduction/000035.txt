@@ -1,0 +1,18 @@
+From: "admin" <admin@community-hub.org>
+Subject: =?gb2312?B?vOzBpsarsNDo19S8/g==?=
+To: member@example.com
+Content-Type: text/html;charset="GB2312"
+Date: Fri, 6 Jun 2025 20:40:01 +0800
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+
+“伊甸园”社区 - 会员服务通知
+
+尊敬的会员，您好。
+“伊甸园”是一个专注于高端私拍资源分享与交流的平台。我们提供以下核心服务：
+
+资源发布与分享： 用户可上传个人作品，设立门槛，分享给指定会员。
+内容评论系统： 对所有公开的作品提供互动评论功能，交流心得体会 。
+每日推荐： 基于算法和编辑推荐，每日为您推送高分作品 。
+自动更新与维护： 服务器图库每日凌晨自动更新，确保内容新鲜度 。
+感谢您的支持，立即登录，探索社区的无限精彩。
+社区登录入口 (需邀请码)

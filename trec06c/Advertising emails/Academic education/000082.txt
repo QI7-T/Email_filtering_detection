@@ -1,0 +1,33 @@
+Received: from mail.hust.edu.cn ([202.114.16.1])
+	by mail.scu.edu.cn (Sichuan University Mail) with ESMTP id u9C4wL8k007823
+	for <public_health@scu.edu.cn>; Sun, 16 Nov 2025 11:42:21 +0800 (CST)
+Message-ID: <202511161142.u9C4wL8k007823@mail.scu.edu.cn>
+From: =?GB2312?B?uPa9qLz6w/G+2sOhtcS9W85sLfsyL/WpA==?= <hust_med@mail.hust.edu.cn>
+Subject: =?gb2312?B?yKvX1Lv6MjAyNeTIt8i3yKvWpNDo0rvP8Lrc0qrV4rDmsb7Nufo=?=
+To: public_health@scu.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: hust_med@mail.hust.edu.cn
+Date: Sun, 16 Nov 2025 11:42:19 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook 2016
+
+   邀请函：2025智慧医疗与健康大数据应用峰会
+
+尊敬的学界同仁：
+
+大数据与人工智能正深刻变革医疗健康领域。为探讨最新技术应用与未来趋势，华中科技大学同济医学院将于2025年12月13-14日在武汉举办“2025智慧医疗与健康大数据应用峰会”。
+
+峰会亮点：
+- 基于电子病历的疾病风险预测模型
+- 医疗影像AI辅助诊断系统
+- 区域人口健康信息化平台建设
+- 大数据驱动的公共卫生应急响应
+
+发言嘉宾：
+- 华中科技大学同济医学院附属同济医院 汪道文 教授
+- 中南大学湘雅医院 周智广 教授
+- 四川大学华西医院 李为民 院长
+
+会议时间：2025年12月13-14日
+会议地点：华中科技大学同济医学院国际会议中心
+联系方式：(027) 83692718 陈老师

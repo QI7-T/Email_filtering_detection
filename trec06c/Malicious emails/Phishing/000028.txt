@@ -1,0 +1,34 @@
+Received: from notice.taobao-server.com ([47.100.100.88])
+	by mx.sina.com (Sina) with ESMTP id r0G3vR6u033287
+	for <zhaolei_vip@sina.com>; Sun, 08 Jun 2025 22:50:22 +0800 (CST)
+Message-ID: <202506082250.r0G3vR6u033287@mx.sina.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 47.100.100.88 with SMTP; Sun, 08 Jun 2025 22:50:21 +0800
+X-Originating-IP: [183.195.132.71]
+Date: Sun, 08 Jun 2025 22:50:20 +0800
+From: "淘宝网" <service@taobao-server.com>
+To: <zhaolei_vip@sina.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+亲爱的会员：
+
+系统检测到您的淘宝账户下了一笔不寻常的订单，为保护您的权益，特此通知。
+
+订单号：889912345678
+订单金额：12,699.00元（商品：最新款无人机）
+收货地址：广西壮族自治区玉林市XX路XX号
+
+如果此订单是您本人购买，请忽略本邮件。
+
+如果非您本人购买，您的账户密码可能已经泄露。请立即登录并取消订单，同时修改您的密码。
+
+查看并取消订单：http://trade.taobao-server.com.cn/order/cancel.py?order_id=889912345678
+
+祝您购物愉快！
+
+淘宝网

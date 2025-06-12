@@ -1,0 +1,36 @@
+Received: from secret-garden.net ([185.105.5.23])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id t9L3vR7u055187
+	for <user@example.com>; Mon, 09 Jun 2025 20:53:22 +0800 (CST)
+Message-ID: <202506092053.t9L3vR7u055187@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?zqrN+LO8z+M=?= <invite@secret-garden.net>
+Subject: =?gb2312?B?1tC8r9KqzurV4rfWufrQprDE+cq10rvP8MHL?=
+To: user@example.com
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 09 Jun 2025 20:53:20 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook 2016
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;花園入口&nbsp;&nbsp;秘密回廊&nbsp;&nbsp;星光池塘&nbsp;&nbsp;迷雾森林
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>持邀请函进入</b>
+<br>
+<br>
+<hr>
+<br>
+<center><h3>秘密花園 - 探索未知的乐趣</h3></center>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;有些美好, 只愿与少数人分享. 欢迎来到秘密花園。
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>我们承诺：</b><br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 绝对匿名, 无需注册, 一键进入<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 端到端加密, 任何第三方无法探知您的秘密<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. 阅后即焚模式, 保护您的隐私不被泄露<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. 内容由社区成员分享, 每天都有新发现<br>
+<br>
+<br>
+<center><b><u>[凭此邮件，您已获得进入花園的钥匙]</u></b></center>

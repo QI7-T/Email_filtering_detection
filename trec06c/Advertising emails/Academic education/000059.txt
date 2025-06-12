@@ -1,0 +1,34 @@
+Return-Path: python_master@163.com
+Received: from mail.163.com ([60.191.107.14])
+by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j68GvXIT017714
+for wang_student@pku.edu.cn; Mon, 09 Jun 2025 22:15:37 +0800 (CST)
+Message-ID: 202506092215.j68GvXIT017714@spam-gw.ccert.edu.cn
+From: "就业指导-刘老师" python_master@163.com
+Subject: =?gb2312?B?zvG5stLDxNrN+NDQyc+1xLy6wODLKFB5dGhvbs7Ezbop?=
+To: wang_student@pku.edu.cn
+Content-Type: text/html;charset="GB2312"
+Reply-To: python_master@163.com
+Date: Mon, 9 Jun 2025 22:15:33 +0800
+X-Priority: 1
+X-Mailer: FoxMail 6.5
+
+同学，还在为找工作和低收入发愁吗？
+别再卷了！学个副业，轻松月入过万！
+
+【Python爬虫数据抓取变现】特训营，零基础入门！
+
+你是否想过：
+
+电影网站的最新资源，一键抓取到自己电脑？
+竞争对手的商品价格、销量，一秒获取并生成报表？
+小红书、微博的美女图片，一键批量下载？
+这一切，Python爬虫都能做到！我们的课程承诺：
+
+30天速成： 从0开始，不懂编程也能学会，30天达到独立接单水平。
+项目实战： 5大真实商业项目实操，学完就有作品集。
+就业保障： 独家合作100+家外包平台，学完就派单，保证你赚回学费！
+看看上期学员的收入截图（[一个模糊的图片链接]），才学一个月，兼职收入已经超过主业！
+原价6999，前30名报名，仅需 699！提供全套软件和源码！
+
+别让你的犹豫，成为别人成功的垫脚石！
+立即添加QQ：88889999 咨询详情，备注“爬虫”

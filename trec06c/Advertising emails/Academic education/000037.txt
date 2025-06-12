@@ -1,0 +1,27 @@
+Return-Path: <physics_dept@ustc.edu.cn>
+Received: from mail.ustc.edu.cn ([202.38.64.8])
+by receiving-server.cas.cn (Postfix) with ESMTP id 8B7C54F0A2
+for <sun_yi@cas.cn>; Mon, 09 Jun 2025 14:05:41 +0800 (CST)
+Message-ID: <202506091405.8B7C54F0A2@mail.ustc.edu.cn>
+From: "中科大物理学院" <physics_dept@ustc.edu.cn>
+Subject: =?gb2312?B?sM/V/cHpz+7ErsSsyO28/rWl19S85Maky/nT4g==?=
+To: sun_yi@cas.cn
+Content-Type: text/html;charset="GB2312"
+Date: Mon, 9 Jun 2025 14:05:38 +0800
+X-Priority: 3
+X-Mailer: WebMail system
+
+各位同仁：
+
+大家好！
+
+提醒各位，本年度“量子信息与量子计算”暑期学校的报名即将于2025年6月20日截止。
+
+本次暑期学校将于7月21日至8月1日在合肥举办，由中国科学技术大学主办。课程内容将涵盖量子计算基础、量子纠错码、量子算法、量子机器学习和超导量子比特实验进展等多个方面。我们邀请了领域内的多位顶尖专家授课。
+
+暑期学校面向相关方向的高年级本科生、研究生和青年教师。名额有限，请有意参加者尽快通过以下链接完成在线报名：qis.ustc.edu.cn/summer2025
+
+期待在合肥与您相会！
+
+中科大物理学院
+2025年6月9日

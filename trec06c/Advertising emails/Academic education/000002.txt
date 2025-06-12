@@ -1,0 +1,31 @@
+Received: from mail.360.cn ([220.181.38.10])
+	by mail.cmbchina.com (CMB Mail) with ESMTP id m7D8sT5h029987
+	for <security.dept@cmbchina.com>; Sun, 08 Jun 2025 19:25:20 +0800 (CST)
+Message-ID: <202506081925.m7D8sT5h029987@mail.cmbchina.com>
+From: =?GB2312?B?MzYwIL/4sOY=?= <training@360.cn>
+Subject: =?gb2312?B?ob+z9tfr1tC5+NDFusLI1rvE47r2s8DL88nPwODP4Lao0Ke8/g==?=
+To: security.dept@cmbchina.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: training.360@gmail.com
+Date: Sun, 08 Jun 2025 19:25:19 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+
+   “网络安全与渗透测试高级研修班”邀请函
+
+各企事业单位信息安全部门：
+
+为提升企业网络安全实战防护能力，360企业安全集团将于上海举办“网络安全与渗透测试高级研修班”。本次培训聚焦真实世界的攻击技巧与防御策略，由一线资深安全专家授课。
+
+培训内容：
+- Web应用漏洞挖掘与利用（SQL注入、XSS、SSRF）
+- 内网渗透与横向移动技术
+- 恶意代码分析与逆向工程入门
+- 应急响应与数字取证实务
+- 红蓝对抗中的高级攻防战术
+
+培训时间：2025年9月22-26日（五天四晚）
+培训地点：上海市浦东新区某酒店（报名后通知）
+培训费用：9800元/人（含培训、教材、午餐及结业证书）
+适合人群：企业安全工程师、渗透测试工程师、安全运维人员。
+报名咨询：(021) 58881234

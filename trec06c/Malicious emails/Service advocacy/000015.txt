@@ -1,0 +1,27 @@
+Return-Path: <yule@dark-gossip.com>
+Received: from dark-gossip.com (unknown [45.14.80.125])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id m2I5gU8w055432
+	for <user@example.com>; Sun, 08 Jun 2025 23:00:41 +0800 (CST)
+Message-ID: <202506082300.m2I5gU8w055432@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <yule@dark-gossip.com>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: yule@dark-gossip.com
+Date: Sun, 08 Jun 2025 23:00:40 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：娱乐圈深扒网
+网站类型：娱乐/八卦
+联系EMAIL：yule-shenba@gmail.com
+网站地址：www.yule-dark-side.cc
+主要内容：
+您是否厌倦了官方通稿和虚假人设？来这里，我们只给你看最真实的娱乐圈。本站由圈内资深狗仔队建立，所有内容均有实锤。
+- 明星隐私：一线明星的私密行程、住址、感情状况全方位爆料。
+- 未曝丑闻：那些被公关团队压下去的丑闻、黑料，我们为您独家呈现。
+- 饭圈内幕：各家粉丝团的内部斗争、资本操作大起底。
+- 私密图库：记者从未公开过的明星私密照片、视频。
+满足你所有的好奇心，看到主流媒体永远不敢报导的内容。网站内容劲爆，请在无人的时候访问。

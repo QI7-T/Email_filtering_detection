@@ -1,0 +1,20 @@
+Received: from mail.ai-dream-factory.com ([193.3.18.25])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id t2H3vR9v057875
+	for <collector@example.com>; Tue, 10 Jun 2025 20:55:22 +0800 (CST)
+From: =?GB2312?B?QUm85LPwsN/Bvg==?= <dream@ai-dream-factory.com>
+Subject: =?gb2312?B?1tC8+tDA1MXIu6zWrsO7tcS8r9PA+A==?=
+To: collector@example.com
+Content-Type: text/plain;charset="GB2312"
+Date: Tue, 10 Jun 2025 20:55:21 +0800
+X-Priority: 3
+
+AI换脸定制服务，让你的终极幻想成真！
+指定女主！完美融合！技术遥遥领先！
+想看安吉丽娜朱莉出演最新的日式剧情吗？
+想看斯嘉丽约翰逊与你最爱的老师同台飙戏吗？
+提供演员名字和剧情编号，剩下的交给我们！
+
+本店采用最先进AI模型，表情自然，毫无破绽。成品刻录成数据光盘。
+
+查看我们的技术演示和可指定名人列表：
+http://www.deep-dream-ai.io/gallery

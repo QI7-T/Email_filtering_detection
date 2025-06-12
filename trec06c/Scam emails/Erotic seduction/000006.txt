@@ -1,0 +1,35 @@
+Received: from yujian-app.cn ([156.234.19.102])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id l1H4wS7v044391
+	for <user@example.com>; Sun, 08 Jun 2025 21:55:33 +0800 (CST)
+Message-ID: <202506082155.l1H4wS7v044391@spam-gw.ccert.edu.cn>
+From: "遇见" <service@yujian-app.cn>
+Subject: =?gb2312?B?sNKxy7rzysfL/df3o6E=?=
+To: user@example.com
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Sun, 08 Jun 2025 21:55:32 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+
+
+                               
+    首页  产品特色  真人认证 
+    同城广场  动态  信箱 
+    会员服务  隐私保护  下载
+          关于我们  联系我们
+
+                        
+                               
+
+                          “遇见”APP介绍
+
+         遇见，遇见你的TA，打破社交距离，让心动变为行动…
+                   主要功能：                       
+
+                     智能推荐附近的有缘人        
+             真人视频认证, 杜绝虚假照片
+                一键发起约会, 直奔主题    
+             匿名聊天模式, 保护您的个人信息
+                 赠送礼物快速提升好感            
+
+                “遇见”APP安卓版下载链接（已解锁VIP功能）

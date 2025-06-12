@@ -1,0 +1,27 @@
+Received: from link.online.sh.cn ([222.73.199.81])
+by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id p8H3bCvx025621
+for zhao@ccert.edu.cn; Fri, 18 Aug 2024 12:44:19 +0800 (CST)
+Message-ID: 202408181244.p8H3bCvx025621@spam-gw.ccert.edu.cn
+From: =?GB2312?B?sNW9+tbQ08bO3rXEw/c=?= it@link.online.sh.cn
+Subject: =?gb2312?B?sNW9+tbQ08bO3qOhsNm8xsvqSVTN+Lbgy/E=?=
+To: zhao@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Reply-To: it@link.online.sh.cn
+Date: Fri, 18 Aug 2024 12:47:30 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+ 神州数码是国内领先的IT技术服务与解决方案提供商，微软金牌合作伙伴及思科高级认证合作伙伴。公司下辖“神州企服”、“神州网安”两大业务板块。“技术驱动商业”的神州数码已通过ISO27001信息安全管理体系及ISO20000 IT服务管理体系认证，为企业数字化转型赋能。
+  
+ 二十年来，我们为政府、金融、制造、零售等行业的数千家客户提供了IT外包、系统集成、云服务及网络安全服务。代表客户有：中国银行、上汽集团、太平洋保险、国美电器等，成功实施了多个大型数据中心建设、企业私有云部署及两地三中心容灾项目。
+
+ 公司在全国设有30个备件及服务中心，拥有超过一千名认证工程师的人才库，确保实现“7x24小时，4小时内上门”的服务承诺，让您的IT系统再无后顾之忧。
+
+ 现在联系我们，即可获得一次免费的IT架构健康评估及安全漏洞检测服务。一次的选择，永久的信赖！
+服务总机：021-61618800 61618811
+24小时应急响应：13301885500
+官网：http://www.dcservices.com.cn   www.dcservices.cn
+E-mail：service@dcservices.com.cn
+
+(声明：本邮件为业务邀请函，我们相信专业的服务能为您创造价值。如不需要，请通知删除，给您带来的打扰，万分抱歉！)

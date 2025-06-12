@@ -1,0 +1,31 @@
+Received: from scanner.office-device.net ([218.241.108.33])
+	by mx.example-corp.com (CorpMail) with ESMTP id q9F2uP5t022198
+	for <li.caiwu@example-corp.com>; Sun, 08 Jun 2025 23:02:18 +0800 (CST)
+Message-ID: <202506082302.q9F2uP5t022198@mx.example-corp.com>
+Received: from MFP-Device.local (HELO localhost) (127.0.0.1)
+	by 218.241.108.33 with SMTP; Sun, 08 Jun 2025 23:02:17 +0800
+X-Originating-IP: [10.0.1.25 (公司内网)]
+Date: Sun, 08 Jun 2025 23:02:16 +0800
+From: "Office Scanner" <scanner@office-device.net>
+To: <li.caiwu@example-corp.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+发件人：三楼打印机HP LaserJet MFP M436
+主题：扫描的文档
+
+已将文档扫描并保存为压缩文件(rar格式)。
+
+文件名：scan_20250608_230215.rar
+页数：5
+色彩模式：彩色
+
+请通过以下公司内部链接下载您的扫描件。
+
+下载链接：http://files.office-device.net/scans/download.php?file=scan_20250608_230215.rar
+
+本邮件由设备自动生成。

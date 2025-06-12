@@ -1,0 +1,28 @@
+Return-Path: <admin@sgk-chaxun.xyz>
+Received: from sgk-chaxun.xyz (unknown [104.238.183.79])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id k0G3vR6u033287
+	for <user@example.com>; Sun, 08 Jun 2025 21:22:22 +0800 (CST)
+Message-ID: <202506082122.k0G3vR6u033287@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <admin@sgk-chaxun.xyz>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: admin@sgk-chaxun.xyz
+Date: Sun, 08 Jun 2025 21:22:21 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：天网社工库查询系统
+网站类型：信息/工具
+联系方式：请见网站内部工单系统
+网站地址：www.tianwang-sgk-search.xyz
+主要内容：
+信息就是力量，我们为您提供最强大的信息支持。本站整合了多年来泄露的数百亿条数据，是目前最全、最准的社工库。
+- 手机号查身份：输入手机号，查询机主姓名、身份证号、家庭住址。
+- 身份证查轨迹：输入身份证号，查询开房记录、上网记录、出行轨迹。
+- 社交平台查询：输入QQ/微信/微博号，查询绑定的手机号和其他私密信息。
+- 数据泄露查询：查询您的个人信息是否在过往的泄露事件中，防患于未然。
+本站采用加密货币支付，全程匿名，保护您的隐私。了解真相，掌控一切。
+（本站服务仅供合法用途，请勿用于非法活动）

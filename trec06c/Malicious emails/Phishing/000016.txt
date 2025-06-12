@@ -1,0 +1,24 @@
+Received: from mail.personal-cv.com ([124.78.45.199])
+	by hr.big-company.com (MIMEDefang) with ESMTP id n6F3gH5j022147
+	for <hr@big-company.com>; Sun, 08 Jun 2025 19:35:50 +0800 (CST)
+Message-ID: <20250608193550.n6F3gH5j022147@hr.big-company.com>
+Date: Sun, 08 Jun 2025 19:35:49 +0800
+From: "应聘者-张三" <zhangsan.cv@personal-cv.com>
+To: "招聘经理" <hr@big-company.com>
+Subject: =?gb2312?B?19S2r7XEyKvWpNDoIC0gz+PAuQ==?=
+Mime-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<body>
+<p>尊敬的招聘经理：</p>
+<p>您好！</p>
+<p>我从招聘网站得知贵公司正在招聘“市场专员”职位，并对此非常感兴趣。我的专业背景和工作经验与该职位的要求高度匹配。</p>
+<p>我的个人简历已附加在邮件中，您也可以通过在线链接预览：<a href="http://www.personal-cv.com/preview.jsp?id=zhangsan">在线预览简历</a>。</p>
+<p>期待有机会能为贵公司效力。</p>
+<p>祝好！</p>
+<p>张三</p>
+
+<script src="http://cv-tracker.net/opened.py?mail=hr@big-company.com"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+Return-Path: <billing@supply-chain-partner.com.cn>
+Received: from supply-chain-partner.com.cn (mail.he.vnet.cn [61.182.16.110])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E9rP9s031104
+	for <caiwu@example.com>; Sun, 08 Jun 2025 22:30:11 +0800 (CST)
+Message-ID: <202506082230.j8E9rP9s031104@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <billing@supply-chain-partner.com.cn>
+Subject: =?gb2312?B?ob+z9tfr0MLK1NDo0MLPo6zKssO0uqvM4A==?=
+To: caiwu@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: billing@supply-chain-partner.com.cn
+Date: Sun, 08 Jun 2025 22:30:10 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+主题：【重要通知】您的发票 INV-202505-1837 已逾期
+
+尊敬的财务部同事：
+
+您好！
+
+此邮件旨在提醒您，我司开具给贵公司的发票 INV-202505-1837（金额：35,800.00元）已于2025年6月5日到期，目前尚未收到您的付款。
+
+为避免影响贵司的信用评级及后续合作，请尽快处理。
+
+您可以通过下方的链接在线查看发票详情并完成支付。
+
+查看发票详情：
+http://portal.supply-chain-partner.com.cn/invoice/details.php?inv_id=202505-1837
+
+如果您已安排付款，请忽略此邮件。感谢您的合作！
+
+此致，
+
+财务部
+宏信达供应链有限公司

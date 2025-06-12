@@ -1,0 +1,30 @@
+Received: from notice-alipay.com ([202.108.22.5])
+	by mx.qq.com (Tencent) with ESMTP id o9C7kL4a034871
+	for <zhang_wei88@qq.com>; Sun, 08 Jun 2025 19:25:11 +0800 (CST)
+Message-ID: <20250608192511.o9C7kL4a034871@mx.qq.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 202.108.22.5 with SMTP; Sun, 08 Jun 2025 19:25:10 +0800
+X-Originating-IP: [121.35.150.72]
+Date: Sun, 08 Jun 2025 19:25:09 +0800
+From: "支付宝安全中心" <security@notice-alipay.com>
+To: <zhang_wei88@qq.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+尊敬的用户：
+
+我们的系统检测到您的账户于 2025年6月8日 19:25 在一个不常用的设备 (安徽省合肥市) 进行了登录尝试。
+
+如果此操作是您本人进行，请忽略本邮件。
+
+如果非您本人操作，您的账户可能存在风险。请立即通过以下专用链接登录，验证您的身份并锁定账户以保障安全。
+
+验证身份：https://security.alipay.verifysafe.com/login/auth.py?token=9f8e4a9c1b2d
+
+为您的账户安全，请勿泄露此链接。
+
+支付宝（中国）网络技术有限公司

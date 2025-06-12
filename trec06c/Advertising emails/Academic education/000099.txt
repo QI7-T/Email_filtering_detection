@@ -1,0 +1,39 @@
+Received: from mail.elogistics-expo.com ([114.55.132.78])
+	by mail.zju.edu.cn (ZJU Mail) with ESMTP id s1F6bZ5n008821
+	for <cse@zju.edu.cn>; Fri, 26 Sep 2025 10:44:19 +0800 (CST)
+Message-ID: <202509261044.s1F6bZ5n008821@mail.zju.edu.cn>
+From: =?GB2312?B?08C0+g==?= <zhangl@elogistics-expo.com>
+Subject: =?gb2312?B?MjAyNc7OyrXPssOhtcS5+rv2zqrT6LzkwODWpNbBprDl?=
+To: cse@zju.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: zhangl_reg@elogistics-expo.com
+Date: Fri, 26 Sep 2025 10:44:17 +0800
+X-Priority: 4
+X-Mailer: Coremail MailSystem
+
+   “2025中国（杭州）智慧物流与自动化仓储技术交流会”
+
+各物流、电商及制造企业：
+为应对日益增长的物流压力，提升仓储自动化水平，定于杭州召开“2025中国（杭州）智慧物流与自动化仓储技术交流会”，分享最新技术成果。
+
+部分交流内容：
+大规模AGV/AMR集群调度系统与算法；
+（北京极智嘉科技有限公司(Geek+)  联合创始人）
+自动化立体仓库的规划设计与运营管理；
+（昆船智能技术股份有限公司）
+面向“次日达”的智能分拣系统；
+（菜鸟网络科技有限公司  CTO办公室）
+供应链大数据与需求预测；
+（京东物流集团  首席科学家）
+无人配送车的商业化落地探索。
+（新石器无人车）
+
+会议时间：2025年11月13--14日（13日为报到时间；14日为会议时间）。
+会议地点：杭州城西开元大酒店（浙江省杭州市余杭区文一西路1111号）
+交    通：杭州西站乘出租车约15元。
+参会费用：1、会务费：￥1600元/人（含会议、资料、午餐）。
+2、会议住房统一安排，费用自理。
+协办单位：浙江省物流与采购协会
+主办单位：中国物流技术网
+电    话：（0571）88776655  1358888xxxx   
+传    真：（0571）88776656

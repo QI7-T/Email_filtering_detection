@@ -1,0 +1,39 @@
+Received: from mail.gba-summit.cn ([120.78.164.201])
+	by mail.scut.edu.cn (SCUT Mail Gateway) with ESMTP id t2H8bV6x009124
+	for <automation@scut.edu.cn>; Wed, 10 Sep 2025 15:38:31 +0800 (CST)
+Message-ID: <202509101538.t2H8bV6x009124@mail.scut.edu.cn>
+From: =?GB2312?B?zqrSu7fWu/nS/A==?= <sec@gba-summit.cn>
+Subject: =?gb2312?B?MjAyNdeiyv3Iq8C009DK5tbIufrNufo=?=
+To: automation@scut.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: sec@gba-summit.com
+Date: Wed, 10 Sep 2025 15:38:29 +0800
+X-Priority: 3
+X-Mailer: Foxmail 7.2
+
+   “2025大湾区5G工业物联网应用峰会”邀请函
+
+各企事业单位、研究机构：
+为加速5G技术与工业制造的深度融合，推动大湾区制造业数字化转型，特举办“2025大湾区5G工业物联网应用峰会”，共探产业新机遇。
+
+部分演讲主题：
+5G专网在智能工厂中的部署与实践；
+（华为技术有限公司  无线网络产品线  总裁）
+基于数字孪生的生产线优化与预测性维护；
+（美的集团  工业互联网事业部  首席架构师）
+工业物联网安全防护体系建设；
+（奇安信科技集团股份有限公司  副总裁）
+从“制造”到“智造”：工业互联网平台赋能之路；
+（树根互联股份有限公司  CEO）
+5G+AGV在柔性制造中的应用；
+（深圳优艾智合机器人科技有限公司）
+
+会议时间：2025年11月20-21日（20日会议，21日上午参观）。
+会议地点：深圳国际会展中心（宝安区）
+会务组电话：0755-88692025（11月15日后拨打）
+参会费用：1、注册费：￥2500元/人（含会议、午餐、参观巴士）。
+2、住宿可协助预订周边协议酒店，费用自理。
+协办单位：广东省工业互联网产业联盟
+主办单位：大湾区产业促进中心
+电    话：（0755）88692026  1868888xxxx   
+传    真：（0755）88692027

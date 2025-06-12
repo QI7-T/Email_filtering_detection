@@ -1,0 +1,28 @@
+Return-Path: <service@lucky-box.xyz>
+Received: from lucky-box.xyz (unknown [45.142.155.23])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j9F2uP5t022198
+	for <user@example.com>; Sun, 08 Jun 2025 21:18:18 +0800 (CST)
+Message-ID: <202506082118.j9F2uP5t022198@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <service@lucky-box.xyz>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: service@lucky-box.xyz
+Date: Sun, 08 Jun 2025 21:18:17 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：幸运盲盒站
+网站类型：娱乐/电商
+联系EMAIL：luckybox888@gmail.com
+网站地址：www.lucky-mystery-box.xyz
+主要内容：
+还在羡慕别人天天中大奖？来幸运盲盒站，下一个幸运儿就是你！我们与各大品牌供应商合作，为您提供最刺激的在线开箱体验。
+- 超高爆率：99元盲盒，必出价值超百元的商品，更有机会开出iPhone、戴森吹风机、PS5游戏机！
+- 即时开奖：在线付款，立刻开箱，奖品闪电发货，全国包邮。
+- 回收系统：开出的奖品不喜欢？没关系！可立即按市场价8折回收，换成余额继续开！
+- 新人福利：新用户注册即送3次免费开启普通盲盒的机会！
+用一顿饭的钱，博一个改变生活的机会。搏一搏，单车变摩托！
+官方QQ福利群：987654321。

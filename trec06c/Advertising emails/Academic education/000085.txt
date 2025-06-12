@@ -1,0 +1,35 @@
+Received: from mail.tju.edu.cn ([202.113.13.199])
+	by mail.ecust.edu.cn (ECUST Mail Gateway) with ESMTP id t9M7xH8j021154
+	for <chem_eng@ecust.edu.cn>; Mon, 29 Sep 2025 17:55:19 +0800 (CST)
+Message-ID: <202509291755.t9M7xH8j021154@mail.ecust.edu.cn>
+From: =?GB2312?B?s9W4psOhtcS++NDot9ak?= <che_office@tju.edu.cn>
+Subject: =?gb2312?B?sK+w48CnsOAnMjAyNeS8+tDAytDDsr7O2NDo0rvP8La8tcS0+iDDwA==?=
+To: chem_eng@ecust.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: che_office_tju@126.com
+Date: Mon, 29 Sep 2025 17:55:16 +0800
+X-Priority: 3
+X-Mailer: Outlook for Windows
+
+   关于举办“2025先进化工与过程强化技术”论坛的函
+
+尊敬的同仁：
+
+为推动化学工业的绿色化与智能化转型，天津大学化工学院作为“化学工程与技术”一流学科建设单位，定于2025年12月6-7日举办专题论坛。
+
+论坛专题：
+- 微化工系统与连续流工艺
+- 高效分离与反应耦合技术
+- 催化新材料与反应工程
+- 化工过程的智能控制与优化
+
+拟邀嘉宾：
+- 天津大学化工学院 马新宾 院士
+- 浙江大学化学工程与生物工程学院 任其龙 院士
+- 大连理工大学化工学院 彭孝军 院士
+
+会议时间：2025年12月6-7日
+会议地点：天津大学卫津路校区会议楼
+注册费用：2500元/人（含会议资料、午餐、晚宴）
+咨询QQ：987654321
+投稿邮箱：che_office_tju@126.com (优秀稿件推荐至《化工学报》)

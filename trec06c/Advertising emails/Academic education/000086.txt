@@ -1,0 +1,34 @@
+Received: from mail.bnu.edu.cn ([223.72.39.8])
+	by mail.ecnu.edu.cn (ECNU Mail Service) with ESMTP id s1F6bZ5n008821
+	for <edutech@ecnu.edu.cn>; Fri, 07 Feb 2026 13:39:36 +0800 (CST)
+Message-ID: <202602071339.s1F6bZ5n008821@mail.ecnu.edu.cn>
+From: =?GB2312?B?sNW12NbDz+NDo0rvP8M/C2sO/Ig==?= <smart_edu@bnu.edu.cn>
+Subject: =?gb2312?B?yKvX1Lv6MjAyNs7Ky+O7+rv2zqrT4NDo0rvP8A==?=
+To: edutech@ecnu.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: smart_edu@bnu.edu.cn
+Date: Fri, 07 Feb 2026 13:39:34 +0800
+X-Priority: 3
+X-Mailer: Apple Mail (2.3696.6)
+
+   邀请函：2026未来教育与智能技术高峰论坛
+
+尊敬的教育界同仁：
+
+人工智能、大数据等技术正重塑教育生态。为探讨科技赋能教育的理论与实践，北京师范大学教育学部将于2026年4月11-12日举办“2026未来教育与智能技术高峰论坛”。
+
+研讨方向：
+- 教育大模型(LLMs)的应用与伦理
+- 学习分析与个性化学习路径规划
+- 虚拟现实(VR/AR)在学科教学中的融合
+- 智慧校园与教育治理现代化
+
+主旨报告专家：
+- 北京师范大学教育学部 黄荣怀 教授
+- 华东师范大学教育信息技术学系 祝智庭 教授
+- 江南大学人工智能与计算机学院 吴小俊 教授
+
+会议时间：2026年4月11-12日
+会议地点：北京师范大学京师学堂
+注册费：1500元/人（全日制研究生800元/人）。
+联系电话：(010) 58808888

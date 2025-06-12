@@ -1,0 +1,34 @@
+Return-Path: <notification@e-sign-service.net>
+Received: from e-sign-service.net (unknown [101.37.118.92])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j9F2uP5t022198
+	for <manager@example.com>; Sun, 08 Jun 2025 22:35:18 +0800 (CST)
+Message-ID: <202506082235.j9F2uP5t022198@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <notification@e-sign-service.net>
+Subject: =?gb2312?B?uqvK1NDQo6zL+NDo0MLTxc+1seM=?=
+To: manager@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: notification@e-sign-service.net
+Date: Sun, 08 Jun 2025 22:35:17 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+主题：来自“深圳华科技术有限公司”的合同签署请求
+
+尊敬的先生/女士：
+
+您好！
+
+您收到一份由“深圳华科技术有限公司”通过“云签约”平台发送的《2025年度战略合作协议》待您审阅和签署。
+
+请点击下方的链接，使用您的手机号或邮箱登录并完成签署流程。该文件具有法律效力，请您仔细审阅。
+
+审阅并签署文件：
+http://www.e-sign-service.net/document/review.php?token=a1b9c8d7e6f5
+
+文件有效期至：2025年6月15日
+
+如果您对文件内容有任何疑问，请直接与发送方联系。
+
+此致，
+
+云签约 客户服务团队

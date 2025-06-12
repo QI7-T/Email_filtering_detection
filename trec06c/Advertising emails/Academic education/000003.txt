@@ -1,0 +1,32 @@
+Received: from mail.caict.cn ([124.205.77.55])
+	by mail.huawei.com (Huawei Mail) with ESMTP id s6C5xR2d017543
+	for <iot.lab@huawei.com>; Sun, 08 Jun 2025 19:30:10 +0800 (CST)
+Message-ID: <202506081930.s6C5xR2d017543@mail.huawei.com>
+From: =?GB2312?B?N0cgstjWpA==?= <forum@caict.cn>
+Subject: =?gb2312?B?ob+z9tfrN0ey2Naky/mxvsLI19S2r9Lyz9i6zdKy0fE=?=
+To: iot.lab@huawei.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: forum.caict@163.com
+Date: Sun, 08 Jun 2025 19:30:09 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1158
+
+   “2025中国5G技术与物联网应用发展论坛”通知
+
+各相关单位：
+
+由中国信息通信研究院主办的“2025中国5G技术与物联网应用发展论坛”将于深圳召开。会议将围绕5G-Advanced技术演进、物联网在垂直行业的深化应用等热点问题展开深入探讨。
+
+主要议题：
+- 5G-A关键技术与标准化进程
+- 通感一体化技术应用前景
+- RedCap（轻量化5G）产业生态与商用部署
+- 工业物联网与数字孪生
+- 车联网（C-V2X）发展与智慧交通
+
+会议时间：2025年10月16-17日
+会议地点：深圳会展中心5号馆
+参会费用：免费（需提前在线注册，名额有限）
+主办单位：中国信息通信研究院
+承办单位：深圳市物联网产业协会
+注册网址：www.caict-forum.cn/5g-iot

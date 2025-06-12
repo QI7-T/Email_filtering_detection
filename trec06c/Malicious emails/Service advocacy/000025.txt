@@ -1,0 +1,27 @@
+Return-Path: <service@jipin-live.xyz>
+Received: from jipin-live.xyz (unknown [89.116.27.140])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id m2I5gU8w055432
+	for <user@example.com>; Sun, 08 Jun 2025 21:33:41 +0800 (CST)
+Message-ID: <202506082133.m2I5gU8w055432@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?ztLDxQ==?= <service@jipin-live.xyz>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: service@jipin-live.xyz
+Date: Sun, 08 Jun 2025 21:33:40 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：极品汇直播
+网站类型：娱乐/直播
+联系邮箱：jipinhui_live@gmail.com
+网站地址：www.jipin-live-show.xyz
+主要内容：
+全网最大胆、最刺激的真人秀场！我们拒绝平庸，只提供让您心跳加速的顶级直播内容。
+- 才艺秀场：多才多艺的美女主播，劲歌热舞，气氛火爆。
+- 私密房间：成为主播的守护骑士，进入一对一私密房间，享受专属福利。
+- 户外探险：探秘废弃医院、无人荒岛，带您体验最真实的刺激。
+- 午夜场次：每晚12点后，开启特别午夜场，内容你懂的。
+平台采用点数制消费，新用户注册即送1888点体验金。立即登录，发现一个全新的世界！

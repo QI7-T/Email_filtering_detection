@@ -1,0 +1,29 @@
+Received: from mx-out.weibo-help.cn ([183.60.99.15])
+	by mx.126.com (NetEase) with ESMTP id s9C4aJ2q009184
+	for <cutegirl2005@126.com>; Sun, 08 Jun 2025 19:22:50 +0800 (CST)
+Message-ID: <20250608192250.s9C4aJ2q009184@mx.126.com>
+Received: from unknown (HELO weibo-app-server) (14.215.117.24)
+	by 183.60.99.15 with SMTP; Sun, 08 Jun 2025 19:22:49 +0800
+X-Originating-IP: [14.215.117.24]
+Date: Sun, 08 Jun 2025 19:22:48 +0800
+From: "微博安全团队" <no-reply@weibo-help.cn>
+To: cutegirl2005@126.com
+Subject: =?gb2312?B?暗码重置请求 - [微博]?=
+X-Mailer: Weibo Mail Service
+Mime-Version: 1.0
+X-Priority: 3
+Content-Type: text/html; charset="gb2312"
+
+您好，
+
+我们收到了一个重置您微博账户密码的请求。
+
+如果您本人发起了此请求，请点击以下链接设置您的新密码。此链接将在 30 分钟后失效。
+
+重置密码：https://passport.weibo-help.cn/account/reset.jsp?token=a1b2c3d4e5f6a1b2c3d4e5f6
+
+如果您没有请求重置密码，请不要点击该链接并立即删除本邮件，您的账户是安全的。
+
+此为系统邮件，请勿直接回复。
+
+微博团队

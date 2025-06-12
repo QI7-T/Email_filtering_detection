@@ -1,0 +1,31 @@
+Return-Path: <domains@hichina-net.cn>
+Received: from hichina-net.cn (mail.cn.yahoo.com [202.43.217.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id l1H4wS7v044391
+	for <admin@example.com>; Sun, 08 Jun 2025 22:45:33 +0800 (CST)
+Message-ID: <202506082245.l1H4wS7v044391@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <domains@hichina-net.cn>
+Subject: =?gb2312?B?sNKxy87EvP6jrNDQzsS1xLrq1tA=?=
+To: admin@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: domains@hichina-net.cn
+Date: Sun, 08 Jun 2025 22:45:32 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+主题：【紧急】您的域名 example.com 将于15天后到期
+
+尊敬的客户：
+
+您好！根据我们的记录，您账户下的域名 example.com 将于2025年6月23日到期。
+
+域名是您重要的线上资产，一旦到期未续费，您的网站和企业邮箱将无法访问，且域名可能被他人抢注，对您的品牌造成不可估量的损失。
+
+我们强烈建议您立即续费，以确保业务的正常运行。
+
+点击下方链接，立即为您的域名续费：
+http://renew.hichina-net.cn/pay/domain.php?domain=example.com
+
+如果您已续费，请忽略本通知。如有任何疑问，请随时联系我们的客服。
+
+此致，
+万网客户服务中心

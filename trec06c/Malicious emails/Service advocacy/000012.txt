@@ -1,0 +1,28 @@
+Return-Path: <admin@pojie520.org>
+Received: from pojie520.org (unknown [172.245.89.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j9F2uP5t022198
+	for <user@example.com>; Sun, 08 Jun 2025 22:45:18 +0800 (CST)
+Message-ID: <202506082245.j9F2uP5t022198@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <admin@pojie520.org>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: admin@pojie520.org
+Date: Sun, 08 Jun 2025 22:45:17 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：破解联盟论坛
+网站类型：软件/游戏资源
+联系EMAIL：pojie520@protonmail.com
+网站地址：www.pojie520.net
+主要内容：
+本站是国内最大的破解资源分享社区，致力于为广大网友提供免费、绿色的学习研究资源。
+- 办公软件：最新版Office、Adobe全家桶等大型软件一键安装破解。
+- 热门游戏：3A游戏大作免安装硬盘版，解锁全部DLC。
+- 实用工具：各类收费工具软件的注册机、破解补丁。
+- 移动应用：安卓、iOS付费App的修改版、解锁版。
+我们所有资源均经过大神亲测，并配有详细的安装使用教程。每日更新，永不收费。省下真金白银，享受同等功能！
+问题求助请访问论坛“悬赏求助”区。

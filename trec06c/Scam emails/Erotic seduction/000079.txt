@@ -1,0 +1,20 @@
+Received: from server.hot-gym-dvd.com ([154.8.201.77])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id q9E3hV7x038166
+	for <collector@example.com>; Tue, 10 Jun 2025 20:36:29 +0800 (CST)
+From: =?GB2312?B?sfq8q9DAxNzFqA==?= <info@hot-gym-dvd.com>
+Subject: =?gb2312?B?zfrPtcO9tLK81b+s8LG+sNnE3Mjmyc8=?=
+To: collector@example.com
+Content-Type: text/plain;charset="GB2312"
+Date: Tue, 10 Jun 2025 20:36:28 +0800
+X-Priority: 3
+
+热汗健身馆系列，力与美的极致结合！
+肌肉与汗水！挑战柔韧极限！见证运动健将们的另一面！
+身材火辣的瑜伽女教练，在私教课上为男学员展示最高难度的双人动作！
+刚刚结束大重量训练的金刚芭比，在淋浴间与男教练比拼体力！
+充满爆发力的身体，碰撞出最原始的火花！
+
+本店所有光盘均附赠超清写真图集，保密发货。
+
+最新教练名录及课程表请回复邮件索取，或访问：
+http://www.sweat-dvd-club.com/schedule

@@ -1,0 +1,29 @@
+Return-Path: journal.astrodata@gmail.com
+Received: from https://www.google.com/search?q=mail-sor-f69.google.com ([209.85.220.69])
+by mail-relay.sjtu.edu.cn (Postfix) with ESMTP id BC4561A508E
+for li_j@cs.sjtu.edu.cn; Mon, 09 Jun 2025 22:01:45 +0800 (CST)
+Message-ID: CAJ2O_qC-q1r2s3t4u5v6w7x8y9z0@mail.gmail.com
+From: "天文数据学报" journal.astrodata@gmail.com
+Subject: =?gb2312?B?W9HE1sPOu82zXVGsvfrQodLyzqvNqLn60KfI/b/J7LXn0vQ=?=
+To: li_j@cs.sjtu.edu.cn
+Content-Type: text/html;charset="GB2312"
+Date: Mon, 9 Jun 2025 22:01:41 +0800
+X-Priority: 3
+X-Mailer: GMail
+
+《天文数据与社会行为学报》创刊号征稿启事
+
+尊敬的李博士：
+
+您的数据模型是否无法解释社交媒体上周期性的“网络暴力”和“集体怀旧”？答案可能在星空之中！
+
+本刊是全球首个致力于研究天体运行与人类社会宏观行为关联的跨学科期刊。现面向全球学者征稿，创刊号重点关注但不限于：
+
+水星逆行周期与全球互联网服务中断（SLA）的统计学关联研究。
+基于月相变化的社交媒体用户情感倾向预测模型（LSTM vs. GRU）。
+土星回归现象对创业公司失败率影响的实证分析。
+本刊采用“快速评审通道”，投稿后三日内必有回复！录用文章将获得在“天人相应”领域的话语权。版面费优惠中！
+
+投稿邮箱： submit@astro-data-journal.org [一个虚构的域名]
+
+《天文数据与社会行为学报》编辑部

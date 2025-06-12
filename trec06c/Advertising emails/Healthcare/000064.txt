@@ -1,0 +1,28 @@
+Return-Path: screening@proactive-health.org.cn
+Received: from proactive-health.org.cn ([221.229.170.101])
+by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H7vX2t088114
+for user@example.com; Thu, 12 Jun 2025 11:20:45 +0800 (CST)
+Message-ID: 202506121120.j8H7vX2t088114@spam-gw.ccert.edu.cn
+From: =?GB2312?B?sPzE+sD6sOY=?= screening@proactive-health.org.cn
+Subject: =?gb2312?B?obfWptf3obfWptf3obfS4sfcyrXP1rv6yfrT6NDDseeyprXE?=
+To: concerned.user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: screening@proactive-health.org.cn
+Date: Thu, 12 Jun 2025 11:20:44 +0800
+X-Priority: 3
+X-Mailer: FoxMail 6.5 [cn]
+
+【紧急健康预警】您是否携带遗传性癌症的“定时炸弹”？
+
+如果您的直系亲属中有人患癌，您的患癌风险可能远高于常人！很多癌症都与明确的遗传性基因突变有关！
+
+主动健康筛查中心，提供针对13种高发遗传性肿瘤的基因检测（覆盖BRCA1/2等27个核心基因）。
+
+提早发现您是否是高危人群。
+为您和您的家人提供明确的预防和早期筛查指导（如增加体检频率、选择预防性手术等）。
+避免将致病基因遗传给下一代。
+不要等到已经发病才追悔莫及！一次检测，可能改变您和您家族的命运。
+健康，是送给自己和家人最珍贵的礼物。
+
+专家热线：400-911-9110 (谐音：就要医)
+地址：北京市协和医学院路xx号

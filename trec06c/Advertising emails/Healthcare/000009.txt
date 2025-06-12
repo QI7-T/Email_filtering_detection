@@ -1,0 +1,37 @@
+Return-Path: <info@sleepace.com>
+Received: from sleepace.com ([119.23.148.60])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id k8I3vR6u033287
+	for <user@example.com>; Fri, 06 Jun 2025 20:20:25 +0800 (CST)
+Message-ID: <202506062020.k8I3vR6u033287@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <info@sleepace.com>
+Subject: =?gb2312?B?uqvK1NDQo6zL+NDo0MLTxc+1seM=?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: info@sleepace.com
+Date: Fri, 06 Jun 2025 20:20:24 +0800
+X-Priority: 3
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+你好！
+告别失眠，拥抱深度睡眠！您是否因入睡困难、浅睡多梦而烦恼？
+
+享睡科技（Sleepace）是一家专注于智能睡眠健康领域的创新企业。我们利用生物传感器及AI算法，为您打造个性化的睡眠解决方案。
+
+公司与斯坦福大学睡眠研究中心合作，研发出“享睡S1”智能助眠灯。本产品集监测与干预于一体，是非药物改善睡眠的革命性突破。
+
+核心功能：
+- 无感监测：通过非接触式传感器，精准监测您的心率、呼吸率及睡眠周期。
+- 智能助眠：释放特定波长的助眠红光，并播放经科学验证的助眠音乐（如白噪音、阿尔法波音乐），引导您快速入眠。
+- 智能唤醒：在您的浅睡阶段，通过模拟日出的光线将您轻柔唤醒，让您醒后精力充沛。
+
+让科技守护您的每一个夜晚。从此，夜夜好眠不再是奢侈。
+
+产品价格：
+一台“享睡S1”智能助眠灯，售价998元
+
+联系方式：
+全国服务热线：400-698-1110
+订购电话：0755-8656-1234
+地址：广东省深圳市南山区软件产业基地
+网址：www.sleepace.com
+E-mail: info@sleepace.com

@@ -1,0 +1,27 @@
+Received: from mail.12123-gov.cn ([220.181.57.216])
+	by mx.sina.com.cn (Sina) with ESMTP id l8D2mN7w033190
+	for <chen_xiansheng@sina.com>; Sun, 08 Jun 2025 19:31:05 +0800 (CST)
+Message-ID: <12123.alert.d28a39c2-b5e1-4b1f-99a3-c1f0d3b8f2c1@12123-gov.cn>
+Received: from unknown (HELO traffic-alert-node03) (111.206.214.41)
+	by 220.181.57.216 with SMTP; Sun, 08 Jun 2025 19:31:04 +0800
+X-Originating-IP: [111.206.214.41]
+Date: Sun, 08 Jun 2025 19:31:03 +0800
+From: "交通综合服务平台" <noreply@12123-gov.cn>
+To: "车主" <chen_xiansheng@sina.com>
+Subject: =?gb2312?B?zru6xNfUzdzOxc/C0cfFzsrM1rzA7Q==?=
+X-Mailer: Gov-Mail Sender
+Mime-Version: 1.0
+X-Priority: 3
+Content-Type: text/html; charset="gb2312"
+
+尊敬的车主：
+
+经系统记录，您的机动车（车牌号：京N***88）于近日新增一条交通违法记录。
+
+请点击下方链接登录平台，查看违法详情（包括时间、地点、图像证据）并及时处理，以免产生滞纳金。
+
+查询违法记录：http://www.12123-gov.cn/public/violation/query.py?plate=N***88&type=2
+
+请在15日内完成处理。如有疑问，可咨询当地交管部门。
+
+交通安全综合服务管理平台

@@ -1,0 +1,34 @@
+Received: from mail.swjtu.edu.cn ([139.155.152.11])
+	by mail.tongji.edu.cn (Tongji University Mail) with ESMTP id m3H9aD3t025812
+	for <transport@tongji.edu.cn>; Tue, 23 Dec 2025 10:10:10 +0800 (CST)
+Message-ID: <202512231010.m3H9aD3t025812@mail.tongji.edu.cn>
+From: =?GB2312?B?yfnN+MOhtcS8+rXEsb/WpA==?= <jtysxy@swjtu.edu.cn>
+Subject: =?gb2312?B?MjAyNeTIt8i309DK1b/Gu/q79rDm16jNufo=?=
+To: transport@tongji.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: jtysxy@swjtu.edu.cn
+Date: Tue, 23 Dec 2025 10:10:08 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+
+   2025智慧交通与车路协同技术峰会
+
+尊敬的专家、学者：
+
+为促进我国智慧交通系统的创新发展，由西南交通大学交通运输学院主办的“2025智慧交通与车路协同技术峰会”将于2026年3月14-15日在成都召开。
+
+峰会主题：
+- 5G/6G与车联网(V2X)通信技术
+- 自动驾驶的环境感知与决策控制
+- 智慧城轨与运营管理
+- 交通大数据分析与信号优化
+
+已定报告人：
+- 西南交通大学交通运输学院 翟婉明 院士
+- 东南大学交通学院 王炜 教授
+- 北京航空航天大学交通科学与工程学院 张军 院士
+
+会议时间：2026年3月14-15日
+会议地点：西南交通大学（犀浦校区）图书馆报告厅
+注册费及议程详见第二轮通知。敬请关注。
+联系人：赵老师 (028) 66368888

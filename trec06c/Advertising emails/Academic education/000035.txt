@@ -1,0 +1,34 @@
+Return-Path: <iccs_sec@pku.edu.cn>
+Received: from mail.pku.edu.cn ([162.105.130.15])
+by mail.tsinghua.edu.cn (MIMEDefang) with ESMTP id kA4GfE2G008173
+for <li_wang@tsinghua.edu.cn>; Mon, 09 Jun 2025 09:15:22 +0800 (CST)
+Message-ID: <202506090915.kA4GfE2G008173@mail.tsinghua.edu.cn>
+From: "会议组委会" <iccs_sec@pku.edu.cn>
+Subject: =?gb2312?B?W9HE1sPOu82zXVBDU0MgMjAyNbXEo7/pvem/vefWuQ==?=
+To: li_wang@tsinghua.edu.cn
+Content-Type: text/html;charset="GB2312"
+Date: Mon, 9 Jun 2025 09:15:18 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook 16.0
+
+尊敬的王教授：
+
+您好！
+
+我们诚挚地邀请您参加将于2025年8月16日至18日在北京大学举行的“第五届全国计算社会科学研讨会 (CCSS 2025)”。
+
+本次会议旨在汇聚国内外计算社会科学领域的专家学者，共同探讨该领域的前沿理论、方法与应用。会议主题包括但不限于：
+
+社会网络分析
+计算传播学
+人类行为建模与仿真
+人工智能与社会治理
+大数据与公共政策
+会议已邀请多位国内外知名学者进行主旨演讲。期待您的莅临与指导！
+
+会议注册与详细议程请访问官网：ccss2025.pku.edu.cn
+
+祝好！
+
+CCSS 2025会议组委会
+2025年6月9日

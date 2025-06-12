@@ -1,0 +1,30 @@
+Received: from service.icbc-security.com.cn ([111.202.1.130])
+	by mx.163.com (NetEase) with ESMTP id p8E9rP9s031104
+	for <wang_hao99@163.com>; Sun, 08 Jun 2025 22:40:11 +0800 (CST)
+Message-ID: <202506082240.p8E9rP9s031104@mx.163.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 111.202.1.130 with SMTP; Sun, 08 Jun 2025 22:40:10 +0800
+X-Originating-IP: [223.73.196.88]
+Date: Sun, 08 Jun 2025 22:40:09 +0800
+From: "中国工商银行" <service@icbc-security.com.cn>
+To: <wang_hao99@163.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+尊敬的客户：
+
+我们的风控系统监测到您的储蓄卡账户（尾号6688）于 2025年6月8日 22:40 在境外（新加坡）发生一笔消费，金额为 9,800.00元。
+
+如果此交易为您本人操作，请忽略本邮件。
+
+如果非您本人操作，您的银行卡可能已被盗用。请立即通过以下专用安全链接登录，验证身份并冻结该笔交易。
+
+验证并冻结交易：http://verify.icbc-security.com.cn/trade/cancel.py?id=SN202506082240A9B
+
+为保障您的资金安全，请在15分钟内完成操作。
+
+中国工商银行

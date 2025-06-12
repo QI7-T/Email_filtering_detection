@@ -1,0 +1,29 @@
+Return-Path: <service@caiwu-tong.com.cn>
+Received: from caiwu-tong.com.cn (mail.ha.vnet.cn [202.102.224.68])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E9rP9s031104
+	for <caiwu@example.com>; Sun, 08 Jun 2025 22:10:11 +0800 (CST)
+Message-ID: <202506082210.j8E9rP9s031104@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <service@caiwu-tong.com.cn>
+Subject: =?gb2312?B?ob+z9tfr0rvM4NDo0MLPo6zKssO0uqvM4A==?=
+To: caiwu@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: service@caiwu-tong.com.cn
+Date: Sun, 08 Jun 2025 22:10:10 +0800
+X-Priority: 4
+X-Mailer: FoxMail 3.11 Release [cn]
+
+软件信息如下：
+
+软件名称：财物通中小企业财务管理软件
+软件版本：V6.8 免费版
+建议分类：财务管理
+联系EMAIL：caiwutong_service@163.com
+软件网站：http://www.caiwu-tong-cn.com/index.asp
+下载地址：http://down.caiwu-tong-cn.com/download.asp?file=cwt_v6.8.exe
+软件容量：15880 KB
+软件类型：免费软件
+应用平台：windows xp/7/10
+界面预览：http://www.caiwu-tong-cn.com/preview.asp
+软件介绍：
+本软件专为中小企业设计，永久免费，功能强大。涵盖账务处理、报表生成、税务计算、发票管理等核心功能。操作员无需专业培训即可快速上手。支持一键生成资产负债表、利润表，符合最新会计准则。独有的发票扫描识别功能，极大提升做账效率。安装后即可使用全部功能，无任何限制。软件咨询qq:88886666。
+全新的版本全新的功能。

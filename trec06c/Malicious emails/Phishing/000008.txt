@@ -1,0 +1,30 @@
+Received: from mail.hongda-tech.com.cn ([218.241.108.33])
+	by mx.target-corp.com (MIMEDefang) with ESMTP id m9D8vF4g018275
+	for <caiwu@target-corp.com>; Sun, 08 Jun 2025 19:15:10 +0800 (CST)
+Message-ID: <OFA3E5C7.202506081915@hongda-tech.com.cn>
+Received: from unknown (HELO WIN-FINANCEPC) (60.191.135.82)
+	by 218.241.108.33 with SMTP; Sun, 08 Jun 2025 19:15:08 +0800
+X-Originating-IP: [60.191.135.82]
+Date: Sun, 08 Jun 2025 19:15:07 +0800
+From: "宏达科技 财务部" <finance@hongda-tech.com.cn>
+To: <caiwu@target-corp.com>
+Subject: =?gb2312?B?W9LssrvPXSDOu7rEtr/Oxc/CwfbE3Mbkysew4A==?=
+X-Mailer: Microsoft Outlook 16.0
+Mime-Version: 1.0
+X-Priority: 3
+Content-Type: text/html; charset="gb2312"
+
+尊敬的财务部同事：
+
+您好！附件是贵公司本月度的服务费用电子发票，请及时下载并核对信息以便安排付款。
+
+为安全起见，发票已上传至加密服务器。请通过下方链接下载。
+
+下载链接：http://invoice.hongda-tech.com.cn/portal/download.py?id=INV202506-7C8B
+
+如有任何疑问，请随时与我们联系。
+
+顺祝商祺！
+
+宏达科技有限公司
+财务部

@@ -1,0 +1,32 @@
+Received: from mail.voicemail-system.com.cn ([111.206.214.55])
+	by mx.example-corp.com (CorpMail) with ESMTP id p8E9rP9s031104
+	for <wang.manager@example-corp.com>; Sun, 08 Jun 2025 22:58:11 +0800 (CST)
+Message-ID: <202506082258.p8E9rP9s031104@mx.example-corp.com>
+Received: from voicemail-server.local (HELO localhost) (127.0.0.1)
+	by 111.206.214.55 with SMTP; Sun, 08 Jun 2025 22:58:10 +0800
+X-Originating-IP: [124.127.108.31]
+Date: Sun, 08 Jun 2025 22:58:09 +0800
+From: "公司语音邮箱" <voicemail@voicemail-system.com.cn>
+To: <wang.manager@example-corp.com>
+Subject: =?gb2312?B?ob+z9tfr1tC5+NDFusLI1rvE47r2s8DL88nPwODP4Lao0Ke8/g==?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+尊敬的用户：
+
+您有一条新的语音留言。
+
+来电号码：+86 186****8888
+留言时间：2025年6月8日 22:58
+留言时长：45秒
+
+由于您的邮箱不支持在线播放，请下载语音文件到本地进行收听。文件已为您打包为zip格式。
+
+下载语音留言文件：http://download.voicemail-system.com.cn/get_audio.php?id=8f9a0c7b.zip
+
+为保护隐私，该文件将在24小时后从服务器删除。
+
+此邮件为系统自动发送，请勿回复。

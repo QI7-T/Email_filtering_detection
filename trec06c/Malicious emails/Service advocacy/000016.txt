@@ -1,0 +1,28 @@
+Return-Path: <service@neixun-leaks.com.cn>
+Received: from neixun-leaks.com.cn (mail.sz.vnet.cn [58.251.98.33])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E9rP9s031104
+	for <user@example.com>; Sun, 08 Jun 2025 21:10:11 +0800 (CST)
+Message-ID: <202506082110.j8E9rP9s031104@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?s9K4+A==?= <service@neixun-leaks.com.cn>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: service@neixun-leaks.com.cn
+Date: Sun, 08 Jun 2025 21:10:10 +0800
+X-Priority: 4
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：名企内训网
+网站类型：职业/培训
+联系EMAIL：neixun_leaks@163.com
+网站地址：www.mingqi-neixun.com.cn
+主要内容：
+本站致力于分享一线互联网大厂（阿里、腾讯、字节、华为等）内部从未公开的培训资料与课程PPT。您是否想知道顶尖公司的运营策略、产品方法论和技术架构？在这里，一切都不是秘密。
+- 运营策略：获取头部公司的真实用户增长、市场推广方案。
+- 产品文档：学习顶级产品经理撰写的完整产品需求文档(PRD)。
+- 技术课件：深入了解大厂的研发流程与核心技术架构。
+- 职场晋升：解密大厂员工的晋升述职报告与成长路径。
+这些价值百万的资料，现向首批用户限时开放。助您轻松超越同龄人，获得职场核心竞争力！
+官方QQ交流群：234567890。

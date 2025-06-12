@@ -1,0 +1,34 @@
+Received: from mail.sufe.edu.cn ([202.121.129.130])
+	by mail.pku.edu.cn (Peking University Mail) with ESMTP id k9N3lB5x007321
+	for <fintech_lab@pku.edu.cn>; Mon, 29 Dec 2025 16:33:14 +0800 (CST)
+Message-ID: <202512291633.k9N3lB5x007321@mail.pku.edu.cn>
+From: =?GB2312?B?sLjQprDhsPzErsOhtcS/t9ak?= <jinrongxy@sufe.edu.cn>
+Subject: =?gb2312?B?ob+z9tfru/q8rsO/ytDDsr7O2NDo0rvP8L7EvPzX1A==?=
+To: fintech_lab@pku.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: jinrongxy_sufe@163.com
+Date: Mon, 29 Dec 2025 16:33:12 +0800
+X-Priority: 3
+X-Mailer: Coremail MailSystem
+
+   【会议通知】第四届金融科技与量化投资研讨会
+
+尊敬的先生/女士：
+
+金融科技正以前所未有的深度和广度影响着资本市场。上海财经大学金融学院兹定于2026年1月10-11日举办“第四届金融科技与量化投资研讨会”。
+
+会议议题：
+- 量化策略与高频交易
+- 基于机器学习的风险管理模型
+- 区块链技术在金融领域的应用
+- 智能投顾与财富管理创新
+
+主旨演讲嘉宾：
+- 上海财经大学金融学院 王能 教授
+- 清华大学五道口金融学院 廖理 教授
+- 复旦大学泛海国际金融学院 张纯信 教授
+
+会议时间：2026年1月10-11日
+会议地点：上海财经大学豪生大酒店
+早鸟注册：2800元/人（12月20日前），常规注册：3200元/人。
+会务组邮箱：jinrongxy_sufe@163.com

@@ -1,0 +1,30 @@
+Received: from mail.chinatax.gov.cn ([111.40.192.34])
+	by mx.139.com (139 Mail) with ESMTP id s1H4wS7v044391
+	for <13800138000@139.com>; Sun, 08 Jun 2025 22:55:33 +0800 (CST)
+Message-ID: <202506082255.s1H4wS7v044391@mx.139.com>
+Received: from web-server.local (HELO localhost) (127.0.0.1)
+	by 111.40.192.34 with SMTP; Sun, 08 Jun 2025 22:55:32 +0800
+X-Originating-IP: [58.246.136.99]
+Date: Sun, 08 Jun 2025 22:55:31 +0800
+From: "国家税务总局" <noreply@chinatax.gov.cn>
+To: <13800138000@139.com>
+Subject: =?gb2312?B?ob+5+NDFvbjEvP6jrM34wO21xLe9sOY=?=
+X-Mailer: 1234m 6.0
+Mime-Version: 1.0
+X-Priority: 1
+X-MSMail-Priority: High
+Content-Type: text/html; charset="gb2312"
+
+尊敬的纳税人：
+
+根据《关于2025年度个人所得税综合所得汇算清缴事项的公告》，为确保您的数据安全及汇算清缴的顺利进行，个人所得税APP将进行安全升级。
+
+所有用户需在2025年6月30日前，重新进行身份信息验证。逾期未验证的用户，将可能影响后续的退税及申报功能。
+
+请点击下方国家税务总局官方链接，完成您的身份验证。
+
+身份信息验证通道：https://etax.chinatax.gov.cn/auth/user/re-verify.py?session=xyzabc
+
+感谢您对国家税收工作的支持！
+
+国家税务总局

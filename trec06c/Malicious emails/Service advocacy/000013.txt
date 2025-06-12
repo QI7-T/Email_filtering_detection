@@ -1,0 +1,28 @@
+Return-Path: <pharmacy@rx-online-care.com>
+Received: from rx-online-care.com ([198.54.120.30])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id k0G3vR6u033287
+	for <user@example.com>; Sun, 08 Jun 2025 22:50:22 +0800 (CST)
+Message-ID: <202506082250.k0G3vR6u033287@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?seDIuA==?= <pharmacy@rx-online-care.com>
+Subject: =?gb2312?B?ofih+LTz0afJ+qGisNfB7MPit9G9u9PRyefH+A==?=
+To: user@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: pharmacy@rx-online-care.com
+Date: Sun, 08 Jun 2025 22:50:21 +0800
+X-Priority: 2
+X-Mailer: Foxmail 4.2 [cn]
+
+网站信息如下：
+
+网站名称：康乐福在线药房
+网站类型：健康与药品
+联系EMAIL：klfpharmacy@gmail.com
+网站地址：www.klf-rx-online.net
+主要内容：
+还在为去医院排队、看医生脸色而烦恼吗？康乐福在线药房为您解决“难言之隐”。我们是专业的线上药品服务商，无需处方，方便快捷。
+- 特效产品：提供各类进口特效减肥药、男性功能增强、助眠安神产品。
+- 隐私保护：所有订单均采用保密包装，快递单上不出现任何敏感字样。
+- 价格优惠：省去中间环节，价格远低于实体药店。
+- 专家咨询：提供在线“药剂师”，为您解答用药疑惑。
+我们郑重承诺所有产品均为原厂正品。您的健康与隐私，我们加倍呵护。
+在线客服Telegram: @klf_care

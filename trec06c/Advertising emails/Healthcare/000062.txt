@@ -1,0 +1,28 @@
+Return-Path: service@genebeauty.com
+Received: from https://www.google.com/search?q=genebeauty.com ([118.31.242.18])
+by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id m5H4wZ9t022872
+for user@example.com; Wed, 11 Jun 2025 20:40:01 +0800 (CST)
+Message-ID: 202506112040.m5H4wZ9t022872@spam-gw.ccert.edu.cn
+From: =?GB2312?B?suLK1bf4sOY=?= service@genebeauty.com
+Subject: =?gb2312?B?1tC5+rzc0MLPo6zE49fTyKvmusPI?=
+To: beauty.queen@example.com
+Content-Type: text/plain;charset="GB2312"
+Reply-To: service@https://www.google.com/search?q=genebeauty.com
+Date: Wed, 11 Jun 2025 20:40:00 +0800
+X-Priority: 3
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+别再盲目尝试昂贵的护肤品了！您的皮肤肌密，都藏在基因里。
+
+“肌因之美”皮肤基因检测，为您揭示肌肤的先天特性。
+
+锁水能力：您是天生“大干皮”吗？
+胶原蛋白水平：您的皮肤更容易松弛、产生皱纹吗？
+抗氧化能力：您的皮肤抵抗自由基、延缓衰老的能力如何？
+紫外线敏感度：您是否需要比别人更注重防晒？
+根据您的基因报告，我们的皮肤科专家将为您精准推荐最适合您的护肤成分（如玻色因、A醇、烟酰胺等），甚至可以为您定制独一无二的专属精华液。
+
+从基因层面，找到最适合您的护肤方案。
+精准护肤套餐（含检测+报告解读）：999元
+网址：www.genebeauty.com.cn (虚构)
+地址：广东省广州市天河区珠江新城

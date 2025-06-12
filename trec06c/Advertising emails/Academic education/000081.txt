@@ -1,0 +1,33 @@
+Received: from smtp.tongji.edu.cn ([58.198.90.17])
+	by mail.pku.edu.cn (PKU Mail) with ESMTP id r2B8vA6q021147
+	for <lifesci@pku.edu.cn>; Fri, 24 Oct 2025 15:58:12 +0800 (CST)
+Message-ID: <202510241558.r2B8vA6q021147@mail.pku.edu.cn>
+From: =?GB2312?B?s9W85sOhtcS/t9ak?= <med_conf@tongji.edu.cn>
+Subject: =?gb2312?B?ob+zzNDo0rvP8LWjv9i8xLG+sNHIq9ak16i5p7b6zqrSu7fWudfU?=
+To: lifesci@pku.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: med_conf@tongji.edu.cn
+Date: Fri, 24 Oct 2025 15:58:11 +0800
+X-Priority: 3
+X-Mailer: Coremail MailSystem
+
+   【会议通知】干细胞与再生医学转化应用研讨会
+
+尊敬的各位同道：
+
+为推动干细胞基础研究向临床应用的转化，同济大学医学院将于2025年11月28-29日举办“干细胞与再生医学转化应用研讨会”。优秀论文可推荐至《干细胞研究》期刊（SCI收录）。
+
+研讨会主题：
+- 诱导多能干细胞(iPSCs)技术与疾病模型
+- 间充质干细胞的免疫调节作用
+- 器官再生与组织工程
+- 干细胞治疗的临床研究与伦理
+
+主讲嘉宾：
+- 同济大学医学院 高绍荣 教授
+- 中国科学院广州生物医药与健康研究院 裴端卿 研究员
+- 上海市东方医院 刘中民 教授
+
+会议时间：2025年11月28-29日
+会议地点：同济大学沪西校区逸夫楼
+注册联系：wang_reg@tongji.edu.cn，(021) 6598XXXX

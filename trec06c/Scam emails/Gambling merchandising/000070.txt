@@ -1,0 +1,23 @@
+From: "数字游民部落" founder@digital-nomad-tribe.com
+Subject: 您的办公室，应是全世界。
+To: future_nomad@example.com
+Content-Type: text/html;charset="UTF-8"
+Date: Mon, 16 Jun 2025 14:30:10 +0800
+X-Mailer: Web-Based Mail 1.0
+
+&lt;html>
+&lt;body>
+&lt;p>您是否厌倦了每天在同一个格子间里，重复同样的工作？&lt;/p>
+&lt;p>您是否梦想过，在清迈的咖啡馆，或是在冰岛的星空下处理工作？&lt;/p>
+&lt;p>&lt;b>加入“数字游民部落”，让世界成为您的办公室。&lt;/b>&lt;/p>
+&lt;p>我们并非教您如何省钱旅行，我们教您建立一个全自动的线上业务（独立站/联盟营销）。我们的会员早已告别打卡，实现了真正的“边旅行边赚钱”。&lt;/p>
+&lt;p>&lt;b>您的新生活将是：&lt;/b>&lt;/p>
+&lt;ul>
+&lt;li>每周只处理10小时的邮件，其余时间都在探索新的城市。&lt;/li>
+&lt;li>您的收入来源是美金，不再担心单一市场的风险。&lt;/li>
+&lt;li>不再有通勤的烦恼，只有选择下一站去哪里的甜蜜负担。&lt;/li>
+&lt;/ul>
+&lt;p>您缺少的不是能力，而是一个能带您起飞的跑道。&lt;/p>
+&lt;p>&lt;b>点击此处，领取您的全球单程票：&lt;/b> [可疑链接已删除]&lt;/p>
+&lt;/body>
+&lt;/html>
