@@ -1,0 +1,31 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 数据集和模型文件（太大）
+trec06c/
+bert-base-chinese/
+outputs/
+*.pth
+*.pt
+*.bin
+*.pkl
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志文件
+*.log 
